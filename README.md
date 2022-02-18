@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi there 👋, My Name is MD AL AMIN
+#### I am Front-End Developer.
+![I am Front-End Developer.](https://scontent.fjsr6-1.fna.fbcdn.net/v/t1.6435-9/75114869_235453887425746_6086294667924602880_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Zi8KPslIjFgAX-AG3Id&_nc_ht=scontent.fjsr6-1.fna&oh=00_AT-XTvlohRaNJoy_Y-TZdsEl8mFsb309wpVgNFoOHEbPUA&oe=6234381A)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: HTML5 / CSS3 / JS / BOOTSTRAP5 / JQUERY /WORDPRESS
+
+- 🔭 I’m currently working on Polyuno LLC. 
+- 🌱 I’m currently learning Javascript. 
+- 👯 I’m looking to collaborate on Github. 
+- 💬 Ask me about Web Developer. 
 
 
-**alamin24nava/alamin24nava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alamin24nava)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/m-a-amin-55a74717b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/maamin.nava)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MAAMIN62102066)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://wpamin.xyz/)  
 
-Here are some ideas to get you started:
+[![trophy](https://github-profile-trophy.vercel.app/?username=alamin24nava)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alamin24nava)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alamin24nava&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alamin24nava)  
+
+![GitHub metrics](https://metrics.lecoq.io/alamin24nava)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alamin24nava)  
+
+![Profile views](https://gpvc.arturio.dev/alamin24nava)  
