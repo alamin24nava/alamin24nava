@@ -11,7 +11,6 @@ Skills: HTML5 / CSS3 / JS / BOOTSTRAP5 / JQUERY /WORDPRESS
 - 💬 Ask me about Web Developer. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alamin24nava)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/m-a-amin-55a74717b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/maamin.nava)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MAAMIN62102066)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://wpamin.xyz/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alamin24nava)](https://github.com/ryo-ma/github-profile-trophy)
 
