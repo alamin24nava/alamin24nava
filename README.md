@@ -12,7 +12,6 @@ Skills: HTML5 / CSS3 / JS / BOOTSTRAP5 / JQUERY /WORDPRESS
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alamin24nava)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alamin24nava)](https://github.com/anuraghazra/github-readme-stats)
 
