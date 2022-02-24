@@ -16,6 +16,3 @@ Skills: HTML5 / CSS3 / JS / BOOTSTRAP5 / JQUERY /WORDPRESS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alamin24nava&show_icons=true&count_private=true)  
 
 
-
-![GitHub metrics](https://metrics.lecoq.io/alamin24nava)  
-
