@@ -19,6 +19,3 @@ Skills: HTML5 / CSS3 / JS / BOOTSTRAP5 / JQUERY /WORDPRESS
 
 ![GitHub metrics](https://metrics.lecoq.io/alamin24nava)  
 
-
-
-![Profile views](https://gpvc.arturio.dev/alamin24nava)  
