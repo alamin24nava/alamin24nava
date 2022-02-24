@@ -1,7 +1,5 @@
 ### Hi there 👋, My Name is MD AL AMIN
 #### I am Front-End Developer. Expert in Front End design with experience. I know HTML5, CSS3, Jquery, and JavaScript. Feel free to contact me with any questions.
-![I am Front-End Developer.]
-
 
 Skills: HTML5 / CSS3 / JS / BOOTSTRAP5 / JQUERY /WORDPRESS
 
@@ -21,6 +19,6 @@ Skills: HTML5 / CSS3 / JS / BOOTSTRAP5 / JQUERY /WORDPRESS
 
 ![GitHub metrics](https://metrics.lecoq.io/alamin24nava)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=alamin24nava)  
+
 
 ![Profile views](https://gpvc.arturio.dev/alamin24nava)  
